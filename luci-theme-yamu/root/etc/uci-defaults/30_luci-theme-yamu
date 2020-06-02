@@ -1,0 +1,8 @@
+#!/bin/sh
+uci batch <<-EOF
+	set luci.themes.yamu=/luci-static/yamu
+	set luci.main.mediaurlbase=/luci-static/yamu
+	commit luci
+EOF
+exit 0 
+# ↑↑↑ DO NOT EDIT THIS LINE
