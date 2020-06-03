@@ -103,7 +103,7 @@ body div {
 }
 
 a {
-    color: rgb(154,37,143);
+    color: rgb(223,124,46);
     text-decoration: none;
 }
 
@@ -186,7 +186,7 @@ footer {
 }
 
 footer > a {
-    color: rgb(154,37,143);
+    color: rgb(223,124,46);
     text-decoration: none;
 }
 
@@ -561,11 +561,11 @@ header > .container > .brand-hostname {
 
 .main > .main-left > .nav > li:hover,
 .main > .main-left > .nav > .slide > .menu:hover {
-    background: rgb(133,129,216);
+    background: rgb(223,124,46);
 	color:white;
 }
 .main > .main-left > .nav > .slide > .menu2:hover {
-    background: rgb(133,129,216);
+    background: rgb(223,124,46);
 	color:white;
 }
 
@@ -590,7 +590,7 @@ header > .container > .brand-hostname {
 
 
 .main > .main-left > .nav > .slide > .slide-menu > .active {
-    background-color: rgb(133,129,216);
+    background-color: rgb(223,124,46);
 }
 
 .main > .main-left > .nav > .slide > .slide-menu > li > a {
@@ -621,12 +621,12 @@ header > .container > .brand-hostname {
 }
 
 .main > .main-left > .nav > .slide > .slide-menu > li:hover {
-    background: rgb(133,129,216);
+    background: rgb(223,124,46);
 	color:white !important;
 }
 
 .main > .main-left > .nav > .slide > .slide-menu > .active:hover {
-    background-color: rgb(133,129,216);
+    background-color: rgb(223,124,46);
     cursor: pointer;
 }
 
@@ -639,14 +639,14 @@ li {
 }
 
 h1 {
-	color:rgb(133,129,216);
+	color:rgb(223,124,46);
     font-size: 20px;
     padding-bottom: 10px;
     border-bottom: 1px solid #eee;
 }
 
 h2 {
-	color:rgb(133,129,216);
+	color:rgb(223,124,46);
     margin: 15px 0 0 0;
     font-size: 16px;
     padding-bottom: 10px;
@@ -654,7 +654,7 @@ h2 {
 }
 
 h3 {
-	color:rgb(133,129,216);
+	color:rgb(223,124,46);
     margin: 5px 0 0 0;
     font-size: 10pt;
     padding-bottom: 10px;
@@ -926,17 +926,17 @@ form.inline + form.inline,
 .tabs > li[class~="active"],
 .tabs > li:hover{
     cursor: pointer;
-    border-bottom: 2px solid rgb(133,129,216);
+    border-bottom: 2px solid rgb(223,124,46);
 
 }
 
 .tabs > li[class~="active"] > a {
-	color:rgb(133,129,216) !important;
+	color:rgb(223,124,46) !important;
 	font-weight:bold;
 }
 
 .tabs > li:hover {
-    /*border-bottom: 0.18751rem solid rgb(133,129,216);*/
+    /*border-bottom: 0.18751rem solid rgb(223,124,46);*/
 }
 
 .cbi-tabmenu {
