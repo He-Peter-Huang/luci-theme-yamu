@@ -307,7 +307,7 @@ header > .container > .brand {
 	/*font-weight:bold;*/
     line-height:60px;
     /*color: white;*/
-	color:rgb(111,42,142);
+	color:rgb(223,124,46);
     cursor: default;
     /*background: rgb(148,143,225);*/
     display:block;
@@ -819,7 +819,7 @@ td > table > tbody > tr > td {
     color: #fff;
     outline: 0;
     text-decoration: none;
-	background-color: rgb(106,101,214);
+	background-color: rgb(223,124,46);
 }
 
 .cbi-button:hover,
@@ -886,7 +886,7 @@ form.inline + form.inline,
 .cbi-button-apply,
 .cbi-button-edit {
     color: #fff !important;
-    background-color: rgb(148,143,225);
+    background-color: rgb(223,124,46);
 }
 
 .cbi-input-reset,
